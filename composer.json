@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/rbac",
+    "name": "webakula/laravel-admin-ext-rbac",
     "description": "RBAC extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "rbac"],
